@@ -8,3 +8,6 @@
 [submodule "lterpalettefinder"]
 	path = lterpalettefinder
 	url = https://github.com/lter/lterpalettefinder
+[submodule "ltertools"]
+	path = ltertools
+	url = https://github.com/lter/ltertools
